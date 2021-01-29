@@ -1,2 +1,2 @@
 # Kimono
-A privacy-focused anonym blockchain network written in C++
+A privacy-focused anonym blockchain network written in C++ **wip**
