@@ -18,6 +18,11 @@ cd kimono
 make
 ```
 
+### Build Kimono on Windows devices
+
+Compile and build on Windows 10 using the `msvc` or the `GNU G++` compiler (Visual Studio Express 2015), then launch: **C:\executable_location\kimono**
+
+
 ### Build with Docker `not supported yet`
 
 ```bash
