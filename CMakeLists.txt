@@ -1,2 +1,3 @@
 # cmake confs in here 
 # to follow soon...
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
