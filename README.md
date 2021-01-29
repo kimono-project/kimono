@@ -21,6 +21,7 @@ make
 ### Build with Docker `not supported yet`
 
 ```bash
+cd kimono/.docker
 docker-compose up --detached
 ```
 
