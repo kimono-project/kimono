@@ -37,5 +37,18 @@ cd kimono/builds/meson
 meson setup build
 ```
 
+### Install deps on Brew
+
+```bash
+brew "cmake"
+brew "coreutils"
+brew "cryptopp"
+brew "pbc"
+brew "openssl@1.1"
+brew "readline"
+brew "boost"
+brew "doxygen"
+brew "nlohmann-json"
+```
 
 **wip** 
