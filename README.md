@@ -1,13 +1,34 @@
 # Kimono
 A privacy-focused anonymous blockchain network written in C++ 
 
+## Table of Contents
+
+  - [Build from Sources]()
+    - [Build on Unix](#build-from-sources-on-unixlinux)
+    - [Build on Windows](#build-kimono-on-windows-devices)
+    - [Build on Docker](#build-with-docker-not-supported-yet)
+    - [Build on Meson](#build-kimono-on-meson-not-supported-yet)
+  <!--- [Translations](#translations)
+  - [Coverage](#coverage)
+  - [Introduction](#introduction)
+  - [About this project](#about-this-project)
+  - [Supporting the project](#supporting-the-project)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Scheduled software upgrades](#scheduled-software-upgrades)
+  - [Release staging schedule and protocol](#release-staging-schedule-and-protocol)
+    - [Dependencies](#dependencies)
+  - [Internationalization](#Internationalization)
+  - [Using Tor](#using-tor)
+  - [Pruning](#Pruning)
+  - [Debugging](#Debugging)
+  - [Known issues](#known-issues)-->
 
 <!--### Install dependencies
 
 ```bash
 apt-get unzip libssl
 ``` -->
-
 
 ### Build from sources on Unix/Linux
 
