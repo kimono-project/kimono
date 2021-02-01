@@ -30,6 +30,12 @@ A privacy-focused anonymous blockchain network written in C++
 apt-get unzip libssl
 ``` -->
 
+### Install dependencies on Unix
+
+```bash
+sudo apt-get install apt-transport-https curl gnupg lsb-release software-properties-common
+```
+
 ### Build from sources on Unix/Linux
 
 Simply fire up a terminal of your choice and do:
