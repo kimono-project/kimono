@@ -64,7 +64,7 @@ cd kimono/builds/meson
 meson setup build
 ```
 
-### Install deps on Brew
+<!--### Install deps on Brew
 
 ```bash
 brew "cmake"
@@ -76,6 +76,6 @@ brew "readline"
 brew "boost"
 brew "doxygen"
 brew "nlohmann-json"
-```
+```-->
 
 > This project is a work-in-progress. I'd consider you not to use the current version in production since it is unfinished
