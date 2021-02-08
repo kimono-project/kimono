@@ -78,4 +78,6 @@ brew "doxygen"
 brew "nlohmann-json"
 ```-->
 
+<!--### Setup wallet-->
+
 > This project is a work-in-progress. I'd consider you not to use the current version in production since it is unfinished
