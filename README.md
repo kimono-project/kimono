@@ -33,7 +33,8 @@ apt-get unzip libssl
 ### Install dependencies on Unix
 
 ```bash
-sudo apt-get install apt-transport-https curl gnupg lsb-release software-properties-common
+sudo apt-get update
+sudo apt-get install autoconf cmake make automake libtool git libboost-all-dev libssl-dev g++ libcurl4-openssl-dev
 ```
 
 ### Build from sources on Unix/Linux
