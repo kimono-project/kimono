@@ -140,9 +140,9 @@
 #include <fstream>
 
 #ifdef WIN32
-# include <signal.h> 
+#include <signal.h> 
 #else
-# include <csignal>
+#include <csignal>
 #endif
 
 using namespace kimono;
