@@ -1,6 +1,11 @@
 # Kimono
 A privacy-focused anonymous blockchain network written in C++ 
 
+<!--## Features
+
+- max blocks: 2000000 XKM
+-->
+
 ## Table of Contents
 
   - [Build from Sources]()
