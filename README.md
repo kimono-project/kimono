@@ -1,5 +1,5 @@
 # Kimono
-A privacy-focused anonymous blockchain network written in C++ 
+A privacy-focused anonymous blockchain network written in C++. The Kimono network is largely inspired and based on the Bitcoin as also the Monero cryptocurrency. 
 
 <!--## Features
 
