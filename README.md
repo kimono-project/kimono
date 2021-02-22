@@ -70,6 +70,29 @@ cd kimono/builds/meson
 meson setup build
 ```
 
+### Build Kimono on FreeBSD `not supported yet`
+
+Install the required dependencies the usual way you install software on FreeBSD - either with `pkg` or via the Ports collection. The example commands below use pkg which is usually run as `root` or via `sudo`.
+
+```bash
+pkg install autoconf automake boost-libs git gmake libevent libtool pkgconf
+```
+
+Now that git and all the required dependencies are installed, let's clone the Kimono repository to a directory. All build scripts and commands will run from this directory.
+
+```bash
+git clone https://github.com/kimono-project/kimono.git
+```
+
+Now we should be able to compile kimono from sources. 
+
+> Important: Use gmake (the non-GNU make will exit with an error)
+
+```bash
+gmake # use -jX here for parallelism
+gmake check # Run tests if Python 3 is available
+```
+
 <!--### Install deps on Brew
 
 ```bash
